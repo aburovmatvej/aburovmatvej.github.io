@@ -1,0 +1,4 @@
+a{text-decoration: none; padding: 5px 10px; background-color: lightgray; color: indigo; line-height: 29px; border-radius: 15px; padding-bottom: 8px;}
+a:hover{background-color: snow; color: purple;}
+body{background-color: gray;}
+body:hover{background-color: skyblue;}
